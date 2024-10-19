@@ -14,5 +14,5 @@ jobs:
       - name: Send update
         run: |
           curl -X POST https://api.your-service.com/share \
-          -H "Authorization: Bearer YOUR_API_KEY" \
-          -d '{"link": "YOUR_SHORTENED_LINK"}'
+          -H "Authorization: Bearer sk-svcacct-bgU9t2sY-ULhmrqHhjGas8ok4GsVCHrZVtPKYvvPBvhT4mQbfzg2Ebot6A-ir4iT3BlbkFJx4ep394BfyA5Qn3eW6Idc5rGyDA3FSez8_7StoKZ-1CeKMb63x1NR7oE92BhRAA" \
+          -d '{"link": "https://bit.ly/4eMUUl2"}'
